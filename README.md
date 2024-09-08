@@ -43,7 +43,7 @@ To get started with the project, follow these steps:
 
 ### 4. Access the Project Report
 - Navigate to the `latex-template/` directory.
-- Compile the `report.tex` file using a LaTeX editor like Overleaf or a local LaTeX distribution (e.g., TeX Live, MikTeX).
+- Compile the `project.tex` file using a LaTeX editor like Overleaf or a local LaTeX distribution (e.g., TeX Live, MikTeX).
 
 ### Contributing
 Contributions are highly encouraged! If you would like to improve this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome enhancements, bug fixes, and new features that align with the scope of the project.
