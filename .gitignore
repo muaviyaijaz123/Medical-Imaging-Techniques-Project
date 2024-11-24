@@ -1,0 +1,8 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore zip files
+*.zip
+
+# Ignore JetBrains IDE project files
+.idea/
